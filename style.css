@@ -66,6 +66,22 @@ nav {
     padding-bottom: 4px;
 }
 
+.nav__logo--img {
+    height: 40px;
+    width: 40px;
+}
+
+img {
+    width: 100%;
+}
+
+.nav__logo--title {
+    font-weight: 900;
+    font-size: 24px;
+    margin-left: 12px;
+    padding-bottom: 2px;
+    letter-spacing: 0.6px;
+}
 
 .btn__menu {
     display: none;
